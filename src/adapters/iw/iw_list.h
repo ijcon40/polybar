@@ -10,6 +10,8 @@ private:
     int * recv;
     int * pipes;
     int size = 0;
+    joint * joints;
+    int j_size = 0;
 
 
 public:
