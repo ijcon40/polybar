@@ -1,5 +1,4 @@
 //
-// Created by ijcon on 8/19/2021.
 //
 
 #include "iw_list.h"
